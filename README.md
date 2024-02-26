@@ -30,7 +30,15 @@ We can add multiplayer option.
 
 ## Output Screenshots
 
-when you open the game :
+When you open the game :
+![image](https://github.com/Md-Arman-Alam/Brick-Breaker-Game-Java-/assets/141524426/e0841acd-27da-45b1-8825-72b2b4bd72aa)
+When you won the game :
+![image](https://github.com/Md-Arman-Alam/Brick-Breaker-Game-Java-/assets/141524426/2f1a5150-e884-4feb-80b0-04e2c96ab1c2)
+When you lose the game :
+![image](https://github.com/Md-Arman-Alam/Brick-Breaker-Game-Java-/assets/141524426/8c801cdd-90a2-49b3-88f0-d055868cde83)
+
+
+
 
 
 
