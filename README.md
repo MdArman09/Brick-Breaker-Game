@@ -39,8 +39,13 @@ When you won the game :
 When you lose the game :
 ![image](https://github.com/Md-Arman-Alam/Brick-Breaker-Game-Java-/assets/141524426/8c801cdd-90a2-49b3-88f0-d055868cde83)
 
+## How to Contribute
+Feel free to contribute to this project by creating issues, suggesting improvements, or submitting pull requests. Your feedback and contributions are welcome!
 
+## Author
+Name - Md Arman Alam
 
+GitHub: https://github.com/Md-Arman-Alam
 
 
 
