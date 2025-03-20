@@ -1,4 +1,4 @@
-# 🧱 Brick Breaker Game - Java 🎮  
+# 🧱 Brick Breaker Game 🎮  
 
 Welcome to the **Brick Breaker Game!** This classic arcade game brings back nostalgic memories with an **exciting and addictive gaming experience.**  
 Get ready to **break bricks, score points, and challenge yourself** through multiple levels!  
